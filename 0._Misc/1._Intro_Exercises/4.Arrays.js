@@ -15,7 +15,7 @@ const friends = [];
 
 // What a lonely array. Add at least 3 friend objects to it.  
 
-friends.push({name: "Søren"});
+friends.push({name: "SÃ¸ren"});
 friends.push({name: "Tina"});
 friends.push({name: "Albert"});
 
